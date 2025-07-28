@@ -1,6 +1,6 @@
 # VOYAGER - A multi-stage Phase Shifter Eurorack module with CV for Stage and Feedback Loop Output Selection
 This is a further development of one of my previous DIY projects for a [multi-stage phase shifter](https://github.com/TOILmodular/EurorackMultiStagePhaser).
-The module offers a maximum numer of 12 stages and several new control options, compared to the previous phaser.
+The module offers a maximum number of 12 stages and several new control options, compared to the previous phaser.
 However, it does not contain an internal modulation LFO anymore.
 All frequency modulation needs to be provided from an external source.
 
