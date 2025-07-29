@@ -44,14 +44,14 @@ With a cable plugged in, the "FB STAGES" knob will not have any influence, but t
 The CV ranges for both the "STAGE" and "FB STAGE" inputs are 0V - 5V.
 The CV ranges for each of those two CV inputs are roughly as follows:
 
-- Stage 2: 0V - 0.62V
-- Stage 4: 0.62V - 1.25V
-- Stage 6: 1.25V - 1.87V
-- Stage 8: 1.87V - 2.5V
-- Stage 9: 2.5V - 3.12V
-- Stage 10: 3.12V - 3.75V
-- Stage 11: 3.75V - 4.37V
-- Stage 12: >4.37V
+- Stage 2: 0V - 0.6V
+- Stage 4: 0.6V - 1.3V
+- Stage 6: 1.3V - 1.9V
+- Stage 8: 1.9V - 2.5V
+- Stage 9: 2.5V - 3.1V
+- Stage 10: 3.1V - 3.8V
+- Stage 11: 3.8V - 4.4V
+- Stage 12: >4.4V
 
 ## Frequency Modulation
 The module does not contain any LFO for frequency modulation, common in other phase shifter modules.
