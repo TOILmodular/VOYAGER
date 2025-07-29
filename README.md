@@ -4,6 +4,12 @@ The module offers a maximum number of 12 stages and several new control options,
 However, it does not contain an internal modulation LFO anymore.
 All frequency modulation needs to be provided from an external source.
 
+<img height="500" src="https://github.com/user-attachments/assets/01446d95-0473-4d3b-b9a3-5225ded7acb2">
+<img height="500" src="https://github.com/user-attachments/assets/69f20e1e-3432-4cd4-86a8-18f73488306c">
+
+<img height="500" src="https://github.com/user-attachments/assets/e342242c-a15f-4865-82d4-7563d7c1b870">
+<img height="500" src="https://github.com/user-attachments/assets/7032556f-7f79-4f03-a0fc-292b786f10b7">
+
 ## Features
 - Multi-stage phase shifter module with selectable number of stages (up to 12 stages)
 - Manual and voltage control over the stage output
