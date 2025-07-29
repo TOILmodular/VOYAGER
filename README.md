@@ -22,6 +22,7 @@ All frequency modulation needs to be provided from an external source.
 - Two inputs with separate attenuators
 - Different CV inputs for the phase shift (linear with attenuator, exponential, CV offset)
 - Two outputs for mixed original/phase-shifted signals and mixed original/feedback-looped signals
+- Module size 18HP
 
 The general signal flow within the module is displayed in the following graph.
 
