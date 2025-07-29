@@ -51,8 +51,8 @@
 | Header | 2.54mm Male 2x5 | 1 | Power Connector |
 
 *)Two resistors with value 100K might have to be replaced by 120K resistors, depending on the module behavior. Those resistors are part of the resistor chains in the two voltage dividers related to the STAGE and FB STAGE selections.
-In the schemaitc those two resistors have the numbers R7 and R91. On the silk screen of the main PCB they are labelled with asterisk belind the resistor value 100K.
-After finishing the module build, turn the knobs SATGE and FB STAGE fully clockwise.
+In the schemaitc those two resistors have the numbers R7 and R91. On the silk screen of the main PCB they are labelled with asterisk belind the resistor value 100K (see picture below).
+After finishing the module build, turn the knobs STAGE and FB STAGE fully clockwise.
 If the last LEDs for stage 12 do not light up, exchange those two resistors with 120K resistors.
 
 <img width="400" src="https://github.com/user-attachments/assets/5df2db97-c19e-4831-aadc-a91169670d85" />
