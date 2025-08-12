@@ -62,15 +62,15 @@ If modulated externally, the "FREQUENCY" knob can be used for an offset to the m
 I added two different versions for the control board in the folder GerberFiles, an "original", and a "Thonk" version.
 Reason is that for my own module, I am using specific potentiometers - 16K4 series from Supertech Electronics - and 3.5mm jack sockets - MJ-355 from Marushin - available at my local electronics shop.
 
-<img width="200" alt="CtrlPCB Orig" src="https://github.com/user-attachments/assets/0468003e-2455-4748-871b-be7dc96b8dae">
+<img width="300" alt="CtrlPCB Orig" src="https://github.com/user-attachments/assets/0468003e-2455-4748-871b-be7dc96b8dae">
 
 However, since most DIY projects for Eurorack modules out there are using potentiometers from ALPHA and so-called THONKICONN jacks, as they are provided by Thonk in the UK, I also created another control board PCB for the "Thonk" version with footprints for those components.
 
-<img width="200" alt="CtrlPCB Thonk" src="https://github.com/user-attachments/assets/ab000af6-9b38-4eff-b188-9df042dd0723">
+<img width="300" alt="CtrlPCB Thonk" src="https://github.com/user-attachments/assets/ab000af6-9b38-4eff-b188-9df042dd0723">
 
 The main PCB is the same for both versions.
 
-<img width="200" alt="MainPCB" src="https://github.com/user-attachments/assets/681a8697-4d46-40a9-90c0-b6dcfb4e93a6">
+<img width="300" alt="MainPCB" src="https://github.com/user-attachments/assets/681a8697-4d46-40a9-90c0-b6dcfb4e93a6">
 
 I created the Gerber files with the online tool EasyEDA and ordered the PCBs at JLCPCB.
 
@@ -84,3 +84,7 @@ The module contains several SMD components:
 - 0.1uF capacitor (x36) - used as bypass caps for all ICs
 
 All other components in the module are through-hole.
+
+On the control board, you will find two electrolytic capacitors with rectangles next to them. Since this capacitors are too tall for standing upright on the board with the main board on top of it, they needs to be mounted in a rectangular position. The rectangle shows the position for the bent-over capacitors.
+
+<img width="300" src="https://github.com/user-attachments/assets/e428799b-85bf-47be-8918-2808db317944">
