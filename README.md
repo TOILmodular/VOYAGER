@@ -30,7 +30,7 @@ The general signal flow within the module is displayed in the following graph.
 
 A demo of the module is shown in the following YouTube video.
 
-[<img width="500" src="https://github.com/user-attachments/assets/9066ff24-57cc-4a4d-a237-4a95bf5e229d">](xxx)
+[<img width="500" src="https://github.com/user-attachments/assets/9066ff24-57cc-4a4d-a237-4a95bf5e229d">](https://youtu.be/96xOC4ow6FU)
 
 ## Stage Selection and CV
 If no cable is plugged into the "STAGES" input, the output stage of the phase shifter can be selected manually by the "STAGES" knob.
