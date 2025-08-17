@@ -37,7 +37,7 @@
 | Quad XOR Gate | CD4030 | 6 | |
 | 8-channel Multiplexer | CD4051 | 2 | |
 | Potentiometer | B100K | 4 | |
-| Potentiometer | B0K | 2 | |
+| Potentiometer | B50K | 2 | |
 | Potentiometer | B10K | 1 | |
 | Mono Jack | 3.5mm | 7 | |
 | Header | 2.54mm Male 1x6 | 1 | Connector Main Board |
